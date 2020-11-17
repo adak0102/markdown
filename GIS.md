@@ -6,7 +6,9 @@ WGS84 -> 4326
 
 신GRS80 -> 5174
 
-> Define Projection(coverage)
+> 서울과 서울의 대도시권 *시가화면*적은 용도지역 중 주거지역, 상업지역, 공업지역 *면적*의 합. 으로 산출
+
+> Define Projection(Data management)
 
 > https://www.osgeo.kr/17
 
